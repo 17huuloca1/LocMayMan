@@ -1,0 +1,24 @@
+{
+    "eslint.alwaysShowStatus": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "prettier.singleQuote": true,
+    "editor.formatOnSave": true,
+    "[erb]": {
+        "editor.formatOnSave": true
+    },
+    "files.autoSave": "off",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "prettier.trailingComma": "none",
+    "javascript.validate.enable": true,
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "colorize.languages": [
+        "javascript"
+    ]
+}
